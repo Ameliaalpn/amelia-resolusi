@@ -3,6 +3,7 @@ RENCANA KONTEN WPU
 - Javascript
 * ES6
 * Frameworks javascrit 
+- Struktur data dasar
 - Php frameworks
 - interview
 - php
